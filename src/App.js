@@ -10,9 +10,9 @@ import love from './love.jpg'
 const image = [ready, right, wrong]
 const text = ["sẵn sàng nèk", "đúng gòi", "ngoo ngok"]
 const quiz = {
-  question: ["Em là ai?", "Mình quen nhau ngày nào?", "Ai đẹp trai nhất?","Đối với anh ai dthưn nhứt", "Anh có yêu em không?"],
-  choice1: ["Người yêu anh", "Em không nhớ", "huy dâng","Như Huỳnh", "Yêu tới cùng trời cúi đất"],
-  choice2: ["Bà bán hàng online", "22/12/2021", "em khum biết", "em khum biết", "em cũng khum piết lun"],
+  question: ["Như Huỳnh là ai?", "Tụi mình quen nhau ngày nào?", "Ai đẹp trai nhất đối với Như Huỳnh?","Đối với Huy Dâng ai dthưn nhứt", "Tụi mình có yêu không?"],
+  choice1: ["Người yêu Huy Dâng", "Khum biết", "Huy Dâng","Như Huỳnh", "Yêu tới cùng trời cúi đất"],
+  choice2: ["Khum biết", "22/12/2021", "Khum biết", "Khum biết", "Khum yêu"],
   answer: ["1", "2", "1", "1", "1"]
 }
 class App extends React.Component {
@@ -58,7 +58,7 @@ class App extends React.Component {
     else
     return(
       <div className="App">
-        <h1>Đúng z anh yêu em gất nhều</h1>
+        <h1>Cảm ơn mọi người đã quan tâm</h1>
         <img className='state-img' src={love} alt="" />
       </div>
     )
