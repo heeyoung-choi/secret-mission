@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/secret-mission/static/css/main.61c00f02.css",
+    "main.js": "/secret-mission/static/js/main.d06e5c26.js",
+    "static/media/right.jpg": "/secret-mission/static/media/right.f91d8bf5157e67a4a96d.jpg",
+    "static/media/love.jpg": "/secret-mission/static/media/love.fba58104e888ea2aafd9.jpg",
+    "static/media/ready.jpg": "/secret-mission/static/media/ready.57331d8803e9d651b212.jpg",
+    "static/media/wrong.jpg": "/secret-mission/static/media/wrong.e4a1edaef313d5cfd47b.jpg",
+    "index.html": "/secret-mission/index.html",
+    "main.61c00f02.css.map": "/secret-mission/static/css/main.61c00f02.css.map",
+    "main.d06e5c26.js.map": "/secret-mission/static/js/main.d06e5c26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61c00f02.css",
+    "static/js/main.d06e5c26.js"
+  ]
+}
